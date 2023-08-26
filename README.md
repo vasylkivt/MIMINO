@@ -89,3 +89,5 @@ To view the MIMINO Hotel website locally, follow these steps:
 Feel free to explore the website's pages, animations, and responsive design. You
 can also use this project as a reference for implementing similar features in
 your own projects.
+
+test-commit-b
