@@ -4,7 +4,7 @@
 
 MIMINO is an immersive multi-page website designed to showcase the hotel and its
 exceptional range of services, providing visitors with a captivating experience
-of its unique atmosphere.
+of its unique atmosphere
 
 ## Table of Contents
 
